@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keep-tally/static/css/main.943fcba5.css",
+    "main.js": "/keep-tally/static/js/main.d327c2cb.js",
+    "static/js/529.983d0ac3.chunk.js": "/keep-tally/static/js/529.983d0ac3.chunk.js",
+    "index.html": "/keep-tally/index.html",
+    "main.943fcba5.css.map": "/keep-tally/static/css/main.943fcba5.css.map",
+    "main.d327c2cb.js.map": "/keep-tally/static/js/main.d327c2cb.js.map",
+    "529.983d0ac3.chunk.js.map": "/keep-tally/static/js/529.983d0ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943fcba5.css",
+    "static/js/main.d327c2cb.js"
+  ]
+}
