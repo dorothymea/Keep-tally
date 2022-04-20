@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/keep-tally/static/css/main.943fcba5.css",
+    "main.js": "/keep-tally/static/js/main.4fec87fd.js",
+    "static/js/529.983d0ac3.chunk.js": "/keep-tally/static/js/529.983d0ac3.chunk.js",
+    "static/media/tally-preview.png": "/keep-tally/static/media/tally-preview.6ea49e1fe387f5bce919.png",
+    "index.html": "/keep-tally/index.html",
+    "main.943fcba5.css.map": "/keep-tally/static/css/main.943fcba5.css.map",
+    "main.4fec87fd.js.map": "/keep-tally/static/js/main.4fec87fd.js.map",
+    "529.983d0ac3.chunk.js.map": "/keep-tally/static/js/529.983d0ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943fcba5.css",
+    "static/js/main.4fec87fd.js"
+  ]
+}
